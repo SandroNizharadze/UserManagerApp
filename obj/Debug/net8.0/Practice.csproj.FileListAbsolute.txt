@@ -12,3 +12,4 @@
 /Users/admin/Desktop/Practice/Practice/obj/Debug/net8.0/Practice.pdb
 /Users/admin/Desktop/Practice/Practice/obj/Debug/net8.0/Practice.genruntimeconfig.cache
 /Users/admin/Desktop/Practice/Practice/obj/Debug/net8.0/ref/Practice.dll
+/Users/admin/Desktop/Practice/Practice/obj/Debug/net8.0/Practice.sourcelink.json
